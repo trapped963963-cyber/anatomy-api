@@ -15,12 +15,5 @@
       ]
     }
   ],
-  "regions": ["fra1"],
-  "rateLimits": [
-    {
-      "limit": 10,
-      "window": "60s",
-      "keys": ["ip"]
-    }
-  ]
+  "regions": ["fra1"]
 }
